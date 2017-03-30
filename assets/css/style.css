@@ -1,10 +1,13 @@
 .fptweet{
-    width: 100%;
-    border-left: 6px solid #8E939E;
-    padding: 25px 25px 25px 80px;
-    background: url('../img/icon.png') #D7D9D7;
-    background-repeat: no-repeat;
+  width: 100%;
+  border-left: 6px solid #333;
+  padding: 25px 25px 25px 80px;
+  background: url('../img/icon.png') #F1F1F1;
+  background-repeat: no-repeat;
 }
 .fptweet a{
-    padding: 0 0 0 15px;
+  padding-top: 15px;
+  float: right;
+  font-weight: 300;
+  font-style: italic;
 }
